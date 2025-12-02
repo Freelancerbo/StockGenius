@@ -1,5 +1,6 @@
-StockGenius: Advanced AI-Powered Stock Prediction System
+# StockGenius: Advanced AI-Powered Stock Prediction System
 🤖 Multiple ML Models | 📊 Real-time Dashboard | 📈 Technical Analysis
+**Advanced stock prediction using Machine Learning & Deep Learning algorithms**
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![ML](https://img.shields.io/badge/Machine%20Learning-Advanced-orange)
@@ -10,10 +11,6 @@ StockGenius: Advanced AI-Powered Stock Prediction System
 
 Built for traders, analysts, and data science enthusiasts, StockGenius turns market noise into actionable insights—all through an intuitive, real-time dashboard.
 
-# 📈 StockGenius - AI Stock Prediction System
-
-
-**Advanced stock prediction using Machine Learning & Deep Learning algorithms**
 
 ## 🚀 Features
 
