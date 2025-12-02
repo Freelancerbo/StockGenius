@@ -1,8 +1,5 @@
-Of course! Here's **only the polished README content** that you can directly copy and paste into your `README.md` file:
-
-```markdown
-# 📈 StockGenius  
-### *AI-Powered Stock Prediction for Global & Pakistani Markets*
+StockGenius: Advanced AI-Powered Stock Prediction System
+🤖 Multiple ML Models | 📊 Real-time Dashboard | 📈 Technical Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![ML](https://img.shields.io/badge/Machine%20Learning-Advanced-orange)
@@ -13,32 +10,28 @@ Of course! Here's **only the polished README content** that you can directly cop
 
 Built for traders, analysts, and data science enthusiasts, StockGenius turns market noise into actionable insights—all through an intuitive, real-time dashboard.
 
----
+# 📈 StockGenius - AI Stock Prediction System
 
-## ✨ Key Features
 
-- **🌍 Dual-Market Support**: US & Pakistan stock tickers  
-- **🧠 Multi-Model Intelligence**: XGBoost, LSTM, Prophet & ensemble strategies  
-- **📊 Real-Time Technical Indicators**: RSI, MACD, Bollinger Bands, Moving Averages  
-- **📈 Interactive Dashboard**: Built with **Streamlit** for dynamic visualization  
-- **🔄 Backtesting Engine**: Validate model performance against historical data  
-- **⚡ Live Data Integration**: Powered by **Yahoo Finance API**
+**Advanced stock prediction using Machine Learning & Deep Learning algorithms**
 
----
+## 🚀 Features
+
+- **Real-time Data**: Live stock prices from Yahoo Finance
+- **Multiple Models**: XGBoost, LSTM, Prophet, Ensemble methods
+- **Technical Analysis**: RSI, MACD, Bollinger Bands, Moving Averages
+- **Interactive Dashboard**: Real-time visualization with Streamlit
+- **Backtesting**: Historical performance analysis
+- **Pakistan Stocks**: PSO, OGDC, HUBC support
 
 ## 🛠️ Tech Stack
 
-| Layer          | Technologies |
-|----------------|--------------|
-| **Core**       | Python 3.9+ |
-| **ML/DL**      | Scikit-learn, XGBoost, LightGBM, PyTorch (LSTM) |
-| **Forecasting**| Facebook Prophet |
-| **Data**       | Yahoo Finance API |
-| **Viz**        | Plotly, Matplotlib, Seaborn |
-| **Dashboard**  | Streamlit |
-| **DevOps**     | Git, GitHub, pip, virtual environments |
-
----
+- **Python 3.9+**
+- **Machine Learning**: Scikit-learn, XGBoost, LightGBM
+- **Deep Learning**: PyTorch (LSTM models)
+- **Visualization**: Plotly, Matplotlib, Seaborn
+- **Dashboard**: Streamlit
+- **Data**: Yahoo Finance API
 
 ## 📁 Project Structure
 
