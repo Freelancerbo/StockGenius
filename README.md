@@ -28,17 +28,24 @@ StockGenius: Advanced AI-Powered Stock Prediction System 🤖 Multiple ML Models
 
 ## 📁 Project Structure
 StockGenius/
-├── data/ # Stock data storage
-├── models/ # Trained ML models
-├── notebooks/ # Jupyter notebooks for analysis
-├── src/ # Source code
+├── data/
+# Stock data storage
+├── models/
+# Trained ML models
+├── notebooks/
+# Jupyter notebooks for analysis
+├── src/ 
+# Source code
 │ ├── data_collector.py
 │ ├── ml_models.py
 │ ├── visualization.py
 │ └── utils.py
-├── dashboard.py # Streamlit dashboard
-├── requirements.txt # Dependencies
-└── README.md # This file
+├── dashboard.py 
+# Streamlit dashboard
+├── requirements.txt 
+# Dependencies
+└── README.md
+# This file
 
 
 ## 🚀 Quick Start
